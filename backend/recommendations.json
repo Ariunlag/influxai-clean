@@ -1,0 +1,646 @@
+[
+  {
+    "topics": [
+      "Chicago/home_002/temperature",
+      "Chicago/home_002/temprature_backup",
+      "Chicago/home_001/pressure",
+      "Chicago/home_002/pressure"
+    ],
+    "confidence": 0.7071,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_001/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.7505,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_002/temperature",
+      "Chicago/home_002/temprature_backup",
+      "Chicago/home_001/pressure"
+    ],
+    "confidence": 0.7505,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_001/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.7482,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_002/temperature",
+      "Chicago/home_002/temprature_backup",
+      "Chicago/home_001/pressure"
+    ],
+    "confidence": 0.7482,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_001/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.7457,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_002/temperature",
+      "Chicago/home_002/temprature_backup",
+      "Chicago/home_001/pressure"
+    ],
+    "confidence": 0.7457,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_001/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.7435,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_002/temperature",
+      "Chicago/home_002/temprature_backup",
+      "Chicago/home_001/pressure"
+    ],
+    "confidence": 0.7435,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_001/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.7414,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_002/temperature",
+      "Chicago/home_002/temprature_backup",
+      "Chicago/home_001/pressure"
+    ],
+    "confidence": 0.7414,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_001/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.7392,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_002/temperature",
+      "Chicago/home_002/temprature_backup",
+      "Chicago/home_001/pressure"
+    ],
+    "confidence": 0.7392,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_001/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.7372,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_002/temperature",
+      "Chicago/home_002/temprature_backup",
+      "Chicago/home_001/pressure"
+    ],
+    "confidence": 0.7372,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_001/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.7366,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_002/temperature",
+      "Chicago/home_002/temprature_backup",
+      "Chicago/home_001/pressure"
+    ],
+    "confidence": 0.7366,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_002/temprature_backup",
+      "Chicago/home_001/temperature",
+      "Chicago/home_002/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.7382,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_002/temprature_backup",
+      "Chicago/home_001/temperature",
+      "Chicago/home_002/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.738,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_001/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.737,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_001/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.7359,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_001/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.7348,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_001/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.7337,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_001/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.7327,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_001/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.7317,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_002/temprature_backup",
+      "Chicago/home_001/temperature",
+      "Chicago/home_002/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.7308,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_002/temprature_backup",
+      "Chicago/home_001/temperature",
+      "Chicago/home_002/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.7299,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_002/temprature_backup",
+      "Chicago/home_001/temperature",
+      "Chicago/home_002/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.729,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_002/temprature_backup",
+      "Chicago/home_001/temperature",
+      "Chicago/home_002/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.7281,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_002/temprature_backup",
+      "Chicago/home_001/temperature",
+      "Chicago/home_002/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.7273,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_002/temprature_backup",
+      "Chicago/home_001/temperature",
+      "Chicago/home_002/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.7265,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_002/temprature_backup",
+      "Chicago/home_001/temperature",
+      "Chicago/home_002/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.7257,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_002/temprature_backup",
+      "Chicago/home_001/temperature",
+      "Chicago/home_002/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.725,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_002/temprature_backup",
+      "Chicago/home_001/temperature",
+      "Chicago/home_002/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.7243,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_002/temprature_backup",
+      "Chicago/home_001/temperature",
+      "Chicago/home_002/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.7236,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_002/temprature_backup",
+      "Chicago/home_001/temperature",
+      "Chicago/home_002/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.7229,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_002/temprature_backup",
+      "Chicago/home_001/temperature",
+      "Chicago/home_002/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.7223,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_002/temprature_backup",
+      "Chicago/home_001/temperature",
+      "Chicago/home_002/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.7216,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_002/temprature_backup",
+      "Chicago/home_001/temperature",
+      "Chicago/home_002/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.721,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_002/temprature_backup",
+      "Chicago/home_001/temperature",
+      "Chicago/home_002/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.7204,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_002/temprature_backup",
+      "Chicago/home_001/temperature",
+      "Chicago/home_002/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.7199,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_002/temprature_backup",
+      "Chicago/home_001/temperature",
+      "Chicago/home_002/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.7193,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_002/temprature_backup",
+      "Chicago/home_001/temperature",
+      "Chicago/home_002/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.7187,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_002/temprature_backup",
+      "Chicago/home_001/temperature",
+      "Chicago/home_002/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.7182,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_002/temprature_backup",
+      "Chicago/home_001/temperature",
+      "Chicago/home_002/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.7177,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_002/temprature_backup",
+      "Chicago/home_001/temperature",
+      "Chicago/home_002/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.7172,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_002/temprature_backup",
+      "Chicago/home_001/temperature",
+      "Chicago/home_002/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.7167,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_002/temprature_backup",
+      "Chicago/home_001/temperature",
+      "Chicago/home_002/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.7162,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_002/temprature_backup",
+      "Chicago/home_001/temperature",
+      "Chicago/home_002/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.7158,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_002/temprature_backup",
+      "Chicago/home_001/temperature",
+      "Chicago/home_002/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.7153,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_002/temprature_backup",
+      "Chicago/home_001/temperature",
+      "Chicago/home_002/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.7149,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_002/temprature_backup",
+      "Chicago/home_001/temperature",
+      "Chicago/home_002/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.7144,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_002/temprature_backup",
+      "Chicago/home_001/temperature",
+      "Chicago/home_002/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.714,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_002/temprature_backup",
+      "Chicago/home_001/temperature",
+      "Chicago/home_002/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.7136,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_002/temprature_backup",
+      "Chicago/home_001/temperature",
+      "Chicago/home_002/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.7132,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_002/temprature_backup",
+      "Chicago/home_001/temperature",
+      "Chicago/home_002/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.7128,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_002/temprature_backup",
+      "Chicago/home_001/temperature",
+      "Chicago/home_002/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.7125,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_002/temprature_backup",
+      "Chicago/home_001/temperature",
+      "Chicago/home_002/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.7121,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_002/temprature_backup",
+      "Chicago/home_001/temperature",
+      "Chicago/home_002/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.7117,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_002/temprature_backup",
+      "Chicago/home_001/temperature",
+      "Chicago/home_002/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.7114,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_002/temprature_backup",
+      "Chicago/home_001/temperature",
+      "Chicago/home_002/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.711,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_002/temprature_backup",
+      "Chicago/home_001/temperature",
+      "Chicago/home_002/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.7107,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_002/temprature_backup",
+      "Chicago/home_001/temperature",
+      "Chicago/home_002/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.7103,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_002/temprature_backup",
+      "Chicago/home_001/temperature",
+      "Chicago/home_002/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.71,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_002/temprature_backup",
+      "Chicago/home_001/temperature",
+      "Chicago/home_002/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.7097,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_002/temprature_backup",
+      "Chicago/home_001/temperature",
+      "Chicago/home_002/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.7094,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_002/temprature_backup",
+      "Chicago/home_001/temperature",
+      "Chicago/home_002/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.7091,
+    "reason": "Batch recommended cluster"
+  },
+  {
+    "topics": [
+      "Chicago/home_002/temprature_backup",
+      "Chicago/home_001/temperature",
+      "Chicago/home_002/temperature",
+      "Chicago/home_001/temprature_backup"
+    ],
+    "confidence": 0.7088,
+    "reason": "Batch recommended cluster"
+  }
+]

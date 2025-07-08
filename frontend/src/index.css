@@ -1,0 +1,104 @@
+:root {
+  /* Keep your existing font stack */ 
+  
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  /* Colors for your theme */
+  --primary-bg: #000;        /* pure black */
+  --primary-text: #fff;      /* white text */
+  --accent: #FFD700;         /* yellow for headings & lines */
+
+  color-scheme: light dark; /* optional, helps with system toggles */
+  color: var(--primary-text);
+  background-color: var(--primary-bg);
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+  width: 100%;
+  min-height: 100vh;
+  background-color: var(--primary-bg);
+  color: var(--primary-text);
+  font-family: inherit;
+  display: flex;
+  flex-direction: column; /* Stack SPA sections vertically */
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--accent);
+  margin: 0 0 0.5em 0;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid var(--accent);
+  margin: 1em 0;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+a:hover {
+  opacity: 0.8;
+}
+
+ul, ol, li {
+  color: var(--primary-text);
+}
+
+button {
+  background-color: #111; /* slightly lighter than pure black */
+  color: var(--primary-text);
+  border: 1px solid var(--accent);
+  border-radius: 8px;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  cursor: pointer;
+  transition: background-color 0.25s, border-color 0.25s;
+}
+
+button:hover {
+  background-color: #222;
+  border-color: var(--accent);
+}
+
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
+
+ul, ol, li {
+  color: var(--primary-text);
+}
+
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: var(--accent);
+  border-radius: 4px;
+  border: 2px solid #312f2f; 
+  height: 100px; 
+}
+
+::-webkit-scrollbar-track {
+  background: transparent; /* or a subtle dark shade like #111 */
+}
+
+/* Scrollbar for Firefox */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--accent) transparent;
+}

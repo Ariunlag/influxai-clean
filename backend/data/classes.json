@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Save",
+    "measurements": [
+      "New_York_City/home_002/pressure",
+      "New_York_City/home_003/pressure",
+      "New_York_City/home_002/temperature"
+    ]
+  },
+  {
+    "name": "Saved",
+    "measurements": [
+      "Chicago/home_001/humidity",
+      "Chicago/home_002/humidity",
+      "Chicago/home_001/temperature"
+    ]
+  },
+  {
+    "name": "test",
+    "measurements": [
+      "Chicago/home_001/temperature_dup1",
+      "Chicago/home_001/temperature",
+      "Chicago/home_001/pressure_dup2",
+      "Chicago/home_001/pressure",
+      "Chicago/home_001/humidity_dup2",
+      "Chicago/home_001/humidity"
+    ]
+  },
+  {
+    "name": "Test1",
+    "measurements": [
+      "New_York_City/home_001/temperature_c",
+      "New_York_City/home_001/temperature_f"
+    ]
+  }
+]
